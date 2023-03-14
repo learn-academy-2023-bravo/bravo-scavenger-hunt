@@ -1,6 +1,6 @@
-# Git Practice
+# Scavenger Hunt
 
-This repository holds the git practice pair programming for the 2023 Bravo cohort.
+This repository holds the scavenger hunt pair programming for the 2023 Bravo cohort.
 
 ### Process Notes
 
@@ -15,9 +15,9 @@ This repository holds the git practice pair programming for the 2023 Bravo cohor
 Branches and file names should be in all lowercase letters with no spaces:
 
 - Branch name: `topic-initials1-initials2` 
-(ex. git-practice-ts-cb)
+(ex. scavenger-ts-cb)
 - File name: `topic-name1-name2.md`  
-(ex. git-practice-trish-charlean.md)
+(ex. scavenger-trish-charlean.md)
 
 ### Informational Commands
 
@@ -40,7 +40,7 @@ Use this command if you don't have the repository (folder) on your local machine
 Use this command if you need to create a branch that does not exist anywhere:
 
 - $ `git checkout -b <topic-initials1-initials2>`  
-(ex. git checkout -b git-practice-ts-cb)
+(ex. git checkout -b scavenger-ts-cb)
 
 ### Changing to a Local Branch
 
@@ -51,7 +51,7 @@ Use this informational command to see what branches exist on your local machine:
 Use this command to move to a branch that exist on your local machine:
 
 - $ `git checkout <branch-name>`  
-(ex. git checkout git-practice-ts-cb)
+(ex. git checkout scavenger-ts-cb)
 
 
 ### Changing to a Remote Branch
