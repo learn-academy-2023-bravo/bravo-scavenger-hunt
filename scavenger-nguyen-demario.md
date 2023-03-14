@@ -7,3 +7,5 @@ Golden Hill - DeMario, Nguyen
 # What is an HTML attribute?
 ## An attribute modifies an element and gives additional info to that element. It is always specified within the starting tag. Attributes usually come in name/value pairs.
 ## <h1 class="header">Text goes here!!!!!</h1> 
+
+## Some updates to be pushed. -nguyen
